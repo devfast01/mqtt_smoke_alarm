@@ -1,0 +1,2 @@
+# mqtt_smoke_alarm
+MQTT SMOKE DETECTED SEND SMS TO PHONE NUMBER
